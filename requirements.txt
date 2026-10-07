@@ -1,4 +1,4 @@
-# Đủ cho topic A, C (phần perturb + projection), E, F. Chạy CPU, không cần GPU.
+﻿# Đủ cho topic A, C (phần perturb + projection), E, F. Chạy CPU, không cần GPU.
 numpy>=1.24
 opencv-python>=4.8
 matplotlib>=3.7
